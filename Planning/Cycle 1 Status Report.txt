@@ -1,0 +1,14 @@
+On Sunday, we spent 3 hours to finish the UML diagram.
+
+On Monday, we made our component and made the hero move by keyListener,
+but we did not figure out how to make hero and bombs show on the same
+frame. And did some try about text read. We spent 4 hours to do these.
+
+On Tuesday, we changed the structure of this game and make GameComponent class
+and tried to put all hero, monsters, bombs and walls in that class and paint.
+The levels and walls can be read from the text file.We spent 5 hours to do these.
+
+On Wednesday, we added the GameWorld class and put things all together. The hero can drop a bomb when press the "Space"and the keyListener works properly.We can do level up and 
+down through "U""D" key.Users can control the hero through "<-","->""Up""Down" keys.
+The hero can not get into the wall. The bomb can explode and kill monsters and hero. The monsters can kill hero. Once the hero is killed, it will go 
+back to the start postion. We spent 5 hours to do these.

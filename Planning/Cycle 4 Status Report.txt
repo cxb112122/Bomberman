@@ -1,0 +1,8 @@
+We do the HoundDog, PoliceWithHeavyArmor, MentalGear(Boss) these three kinds of new monster.
+We did the powerup of +1 life
+The mentalGear can shut
+We add audio (soundtrack to the game)
+Make the win condition
+Add all the images
+fix several bugs
+

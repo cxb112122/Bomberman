@@ -1,0 +1,7 @@
+We make two kind of monsters: the normal one which move horizontally and vertically;the helicopter which likes the Bouncer;
+We make breakable and unbreakable walls;
+The bomb can kill hero and monsters and make the breakable wall disappear;
+We add some image to this game;
+When the hero is killed, he will go back to the start point(the hero have limit lives, we are still working on it)
+When in a single level all the monsters are killed, the game will automatically go to the next level;
+Some power-ups;
